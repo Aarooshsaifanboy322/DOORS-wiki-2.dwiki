@@ -1,0 +1,165 @@
+body {
+    font-family: "Tauri", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-image: url("https://i1.sndcdn.com/artworks-9AAka38BIbfSToyH-WhmzQQ-t500x500.jpg");
+}
+.not-offical-sub {
+    display: none;
+}
+.entities {
+    background-color: transparent;
+}
+.seek {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.figure { 
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.halt {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.rush {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.ambush {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.shadow {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.glitch {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.window {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.tim {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.screech {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.dread {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.gl {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 318px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.snare {
+    border: none;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    width: 187px;
+    height: 53px;
+    font-size: 30px;
+    cursor: pointer;
+}
+.entities { 
+    padding-top: 70px;
+    border-radius: 5px;
+    height: 187px;
+    overflow: hidden;
+}
+.nav-bar {
+    display: flex;
+    align-items: center;
+    background-color: transparent; /*Actual background color is c- [Not leaking]*/
+}
+.places-btn {
+    width: 37px;
+    background: transparent;
+    border: none;
+}
+.image-placeholder { 
+    position: relative;
+    border: 4px solid;
+    overflow: hidden;
+    width: 227px;
+    border: transparent;
+}
